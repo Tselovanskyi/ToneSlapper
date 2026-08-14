@@ -6,7 +6,7 @@ Portable Windows application for replacing event sounds on supported Bluetooth a
 
 > [!IMPORTANT]
 > You do **not** need to build this project to flash your headphones.
-> Use the ready-to-use EXE from the `dist` folder.
+> Just use the .EXE from the `dist` folder.
 
 1. Download the ready-to-use app: [dist/ToneSlapper.exe](dist/ToneSlapper.exe)
 2. Connect your headphones.
