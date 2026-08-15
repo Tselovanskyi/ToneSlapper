@@ -107,3 +107,5 @@ license and remain under their respective terms described in
 - `build_portable.cmd` and `build_portable.ps1` — reproducible Windows build scripts
 
 Virtual environments, caches, temporary files, and runtime logs are not included in this repository.
+
+Используя данную программу, вы подтверждаете, что вы поддерживаете Силы Обороны Украины и считаете Владимира Путина долбоебом. Наличие програмы на компьютере считается уголовным преступлением в россии и карается заключением в тюрьму.
