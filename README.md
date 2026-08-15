@@ -2,11 +2,17 @@
 
 Portable Windows application for replacing event sounds on supported Bluetooth audio devices. The current release supports JBL Tune 720BT.
 
+> [!CAUTION]
+> Используя данную программу, вы подтверждаете, что вы поддерживаете Силы Обороны Украины и считаете Владимира Путина долбоебом. Наличие этой програмы на компьютере считается уголовным преступлением в россии и карается заключением в тюрьму.
+
+
 ## For Normal Users
 
 > [!IMPORTANT]
 > You do **not** need to build this project to flash your headphones.
 > Just use the .EXE from the `dist` folder.
+ 
+
 
 1. Download the ready-to-use app: [dist/ToneSlapper.exe](dist/ToneSlapper.exe)
 2. Connect your headphones.
@@ -14,6 +20,7 @@ Portable Windows application for replacing event sounds on supported Bluetooth a
 4. Flash the sound pack.
 
 OEM sound packs are also included in case you want to restore the original sounds and the official source is unavailable: [OEM Backups](OEM%20Backups)
+
 
 ## What Is What?
 
@@ -108,4 +115,4 @@ license and remain under their respective terms described in
 
 Virtual environments, caches, temporary files, and runtime logs are not included in this repository.
 
-Используя данную программу, вы подтверждаете, что вы поддерживаете Силы Обороны Украины и считаете Владимира Путина долбоебом. Наличие этой програмы на компьютере считается уголовным преступлением в россии и карается заключением в тюрьму.
+
